@@ -5,5 +5,7 @@ theme = 'spectral'
 [Params]
     fancytitle = 'Hopmann Consulting'
     description = 'Strategic and Execution Excellence'
-[Params.contact]
-    email = 'tim@hopmannconsulting.com'
+    
+#
+#[Params.contact]#
+#   email = 'tim@hopmannconsulting.com'#
