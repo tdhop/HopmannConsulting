@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'spectral'
+[Params]
+    fancytitle = 'Hopmann Consulting'
+    description = 'Strategic and Execution Excellence'
+[Params.contact]
+    email = 'tim@hopmannconsulting.com'
