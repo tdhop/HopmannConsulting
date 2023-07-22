@@ -1,11 +1,11 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://hopmannconsulting.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Hopmann Consulting'
 theme = 'spectral'
-[Params]
+[params]
     fancytitle = 'Hopmann Consulting'
     description = 'Strategic and Execution Excellence'
-    
 
-[Params.contact]#
+
+[[params.contact]]
   email = 'tim@hopmannconsulting.com'
