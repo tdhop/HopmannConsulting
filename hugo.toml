@@ -7,5 +7,5 @@ theme = 'spectral'
     description = 'Strategic and Execution Excellence'
 
 
-[[params.contact]]
+[params.contact]
   email = 'tim@hopmannconsulting.com'
